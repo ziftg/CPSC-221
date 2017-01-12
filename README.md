@@ -2,10 +2,10 @@
 Basic Algorithms and Data Structures
 <br>
 ## Programming project #1
-Implementing indexing feature that will produce index for a book
+Program that implements indexing structure to produce index for a book
 
 ## Programming project #2
-Implementing Huffman algorithm with max-heap priority queue data structure
+Program that implements Huffman's algorithm with max-heap priority queue to produce an optimal character-based prefix code
 
 ## Programming project #3
-Implementing several generators to identify mystery dictionary data structures
+Program that identifies mystery dictionary data structures
